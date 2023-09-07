@@ -1,0 +1,19 @@
+{
+  "name": "decision-engine-be",
+  "version": "1.0.0",
+  "description": "Decision engine BE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ly Tempel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
