@@ -167,8 +167,8 @@ form {
   background-color: rgb(243, 238, 251);
   border-radius: 20px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-  padding: 3rem;
   max-width: 100%;
+  padding: 4rem;
   text-align: center;
   width: 40rem;
 }
@@ -207,15 +207,15 @@ form {
 }
 
 .btn-outline-primary {
-  color: #2b0055;
   background: transparent;
   border-color: #2b0055;
+  color: #2b0055;
 }
 
 .btn-outline-primary:hover {
-  color: #fff;
   background: #2b0055;
   border-color: #2b0055;
+  color: #fff;
 }
 
 .btn-primary:hover {

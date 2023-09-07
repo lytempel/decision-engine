@@ -25,6 +25,7 @@ defineProps<{
 .decision {
   color: #413c3c;
   font-size: 1.125rem;
+  height: 5.5rem;
   margin-left: 0.75rem;
   margin-top: 2rem;
   text-align: left;
